@@ -5,6 +5,20 @@ const _JOURNAL_ISSUES = [
     id: uuidv4(),
     type: "issue",
     title:
+      "International Journal of Research, Vol 15 Issue 2, Jan - June 2026, ISSN 2231-6124",
+    link: "assets/docs/journal-issues/Rizvi-IJR-Jan-June-2026.pdf",
+  },
+  {
+    id: uuidv4(),
+    type: "issue",
+    title:
+      "International Journal of Research, Vol 15 Issue 1, July - Dec 2025, ISSN 2231-6124",
+    link: "assets/docs/journal-issues/Rizvi-IJR-July-Dec-2025.pdf",
+  },
+  {
+    id: uuidv4(),
+    type: "issue",
+    title:
       "International Journal of Research, Vol 15 Issue 1, July - Dec 2025, ISSN 2231-6124",
     link: "assets/docs/journal-issues/Rizvi-IJR-July-Dec-2025.pdf",
   },
