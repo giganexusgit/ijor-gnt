@@ -23,7 +23,7 @@ const BoardMembers = () => {
           <Typography align="center">
             {/* Dr. Ashfaq Ahmad Khan: Principal, Rizvi College of Arts, Science
             &amp; Commerce, Bandra (West), Mumbai - 400050. */}
-            Dr. Arunachalam S : Incharge Principal & Professor, Rizvi College of Arts, Science & Commerce, Bandra (West), Mumbai 400050
+            Dr. (Mrs.) Anjum Ara M. K. Ahmad : Incharge Principal & Professor, Rizvi College of Arts, Science & Commerce, Bandra (West), Mumbai 400050
           </Typography>
         </ListItem>
         <ListItem sx={{ mb: 2, flexDirection: "column" }}>
@@ -31,9 +31,7 @@ const BoardMembers = () => {
             Executive Editor
           </Typography>
           <Typography align="center">
-            Dr. (Mrs.) Anjum Ara M. K. Ahmad: Professor, Department of
-            Mathematics and Statistics, Rizvi College of Arts, Science &amp;
-            Commerce, Bandra (West), Mumbai - 400050.
+            Dr. Rana Ansariya: Associate Professor & Head, Department of Zoology, Rizvi College of Arts, Science & Commerce, Mumbai 400050
             <br />
             Email: executiveeditor.ijr@rizvicollege.edu.in
           </Typography>
@@ -43,15 +41,17 @@ const BoardMembers = () => {
             Members
           </Typography>
           <Typography align="center">
-            Dr. Rana Ansariya
-            <br />
-            {/* Dr. Masooma Sayed */}
             Mrs. Shweta Dubey
             <br />
-            {/* Ms. Aiman Peerzade */}
+            {/* Dr. Masooma Sayed */}
             Mr. Subhash Gupta
             <br />
+            {/* Ms. Aiman Peerzade */}
             Ms. Mehvash Shaikh
+            <br />
+            Mr. Prabhat Singh
+            <br />
+            Ms. Tabassum Shaikh
             <br />
           </Typography>
         </ListItem>

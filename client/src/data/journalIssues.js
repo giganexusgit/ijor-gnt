@@ -15,13 +15,14 @@ const _JOURNAL_ISSUES = [
       "International Journal of Research, Vol 15 Issue 1, July - Dec 2025, ISSN 2231-6124",
     link: "assets/docs/journal-issues/Rizvi-IJR-July-Dec-2025.pdf",
   },
-  {
-    id: uuidv4(),
-    type: "issue",
-    title:
-      "International Journal of Research, Vol 15 Issue 1, July - Dec 2025, ISSN 2231-6124",
-    link: "assets/docs/journal-issues/Rizvi-IJR-July-Dec-2025.pdf",
-  },
+  // {
+  //   id: uuidv4(),
+  //   type: "issue",
+  //   title:
+  //     "International Journal of Research, Vol 15 Issue 1, July - Dec 2025, ISSN 2231-6124",
+  //   link: "assets/docs/journal-issues/Rizvi-IJR-July-Dec-2025.pdf",
+  // },
+  // {
   {
     id: uuidv4(),
     type: "issue",
@@ -40,7 +41,7 @@ const _JOURNAL_ISSUES = [
     id: uuidv4(),
     type: "issue",
     title:
-      "International Journal of Research, Vol. 14 Issue 1,  Jan-June 2024, ISSN 2231-6124",
+      "International Journal of Research, Vol. 13 Issue 2,  Jan-June 2024, ISSN 2231-6124",
     link: "assets/docs/journal-issues/Rizvi-IJR-Jan-Jun-2024.pdf",
   },
   {
